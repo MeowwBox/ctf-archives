@@ -1582,6 +1582,11 @@
             <td><a href="https://ctftime.org/event/1643/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=1><a href="ctfs/CyberGame">CyberGame</a></td>
+            <td><a href="ctfs/CyberGame/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/3142/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=2><a href="ctfs/CyberGrabs">CyberGrabs</a></td>
             <td><a href="ctfs/CyberGrabs/2022">2022</a></td>
             <td><a href="https://ctftime.org/event/1556/tasks/" target="_blank">CTFtime</a></td>
