@@ -4423,6 +4423,11 @@
             <td><a href="https://ctftime.org/event/2370/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=1><a href="ctfs/tkbctf">tkbctf</a></td>
+            <td><a href="ctfs/tkbctf/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/3091/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=1><a href="ctfs/upCTF">upCTF</a></td>
             <td><a href="ctfs/upCTF/2026">2026</a></td>
             <td><a href="https://ctftime.org/event/3073/tasks/" target="_blank">CTFtime</a></td>
