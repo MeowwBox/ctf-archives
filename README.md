@@ -2321,6 +2321,11 @@
             <td><a href="https://ctftime.org/event/1138/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=1><a href="ctfs/MIPT">MIPT</a></td>
+            <td><a href="ctfs/MIPT/2026/Quals">2026 Quals</a></td>
+            <td><a href="https://ctftime.org/event/3162/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=1><a href="ctfs/MUST">MUST</a></td>
             <td><a href="ctfs/MUST/2023/Quals">2023 Quals</a></td>
             <td><a href="https://ctftime.org/event/2175/tasks/" target="_blank">CTFtime</a></td>
