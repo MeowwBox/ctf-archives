@@ -2372,7 +2372,11 @@
             <td><a href="https://ctftime.org/event/1420/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=2><a href="ctfs/MidnightFlag">Midnight Flag</a></td>
+            <td rowspan=3><a href="ctfs/MidnightFlag">Midnight Flag</a></td>
+            <td><a href="ctfs/MidnightFlag/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/3105/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td><a href="ctfs/MidnightFlag/2024">2024</a></td>
             <td><a href="https://ctftime.org/event/2295/tasks/" target="_blank">CTFtime</a></td>
         </tr>
