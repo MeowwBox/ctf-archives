@@ -2252,6 +2252,11 @@
             <td><a href="https://ctftime.org/event/1398/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=1><a href="ctfs/LagNCrash">LagNCrash</a></td>
+            <td><a href="ctfs/LagNCrash/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/3165/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=4><a href="ctfs/LakeCTF">LakeCTF</a></td>
             <td><a href="ctfs/LakeCTF/2025/Quals">2025 Quals</a></td>
             <td><a href="https://ctftime.org/event/2944/tasks/" target="_blank">CTFtime</a></td>
