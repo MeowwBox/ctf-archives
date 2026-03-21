@@ -3779,7 +3779,11 @@
             <td><a href="https://ctftime.org/event/2735/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="ctfs/Undutmaning">Undutmaning</a></td>
+            <td rowspan=2><a href="ctfs/Undutmaning">Undutmaning</a></td>
+            <td><a href="ctfs/Undutmaning/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/2987/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td><a href="ctfs/Undutmaning/2024">2024</a></td>
             <td><a href="https://ctftime.org/event/2283/tasks/" target="_blank">CTFtime</a></td>
         </tr>
