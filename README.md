@@ -116,8 +116,13 @@
         </tr>
         <tr>
             <td rowspan=1><a href="ctfs/AI">AI</a></td>
-            <td><a href="ctfs/ALLES/2024">2024</a></td>
+            <td><a href="ctfs/AI/2024">2024</a></td>
             <td><a href="https://ctftime.org/event/2383/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
+            <td rowspan=1><a href="ctfs/AITU">AITU</a></td>
+            <td><a href="ctfs/AITU/2026/Quals">2026 Quals</a></td>
+            <td><a href="https://ctftime.org/event/3204/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
             <td rowspan=2><a href="ctfs/ALLES">ALLES</a></td>
