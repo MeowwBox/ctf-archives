@@ -2111,7 +2111,11 @@
             <td><a href="https://ctftime.org/event/2902/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=3><a href="ctfs/KalmarCTF">KalmarCTF</a></td>
+            <td rowspan=4><a href="ctfs/KalmarCTF">KalmarCTF</a></td>
+            <td><a href="ctfs/KalmarCTF/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/2983/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td><a href="ctfs/KalmarCTF/2025">2025</a></td>
             <td><a href="https://ctftime.org/event/2599/tasks/" target="_blank">CTFtime</a></td>
         </tr>
