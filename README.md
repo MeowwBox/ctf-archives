@@ -1772,11 +1772,6 @@
             <td><a href="https://ctftime.org/event/652/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="ctfs/HackForAChange">HackForAChange</a></td>
-            <td><a href="ctfs/HackForAChange/2026">2026</a></td>
-            <td><a href="https://ctftime.org/event/3184/tasks/" target="_blank">CTFtime</a></td>
-        </tr>
-        <tr>
             <td rowspan=1><a href="ctfs/HackHavoc">HackHavoc</a></td>
             <td><a href="ctfs/HackHavoc/2024">2024</a></td>
             <td><a href="https://ctftime.org/event/2532/tasks/" target="_blank">CTFtime</a></td>
@@ -3734,6 +3729,11 @@
         <tr>
             <td><a href="ctfs/UMassCTF/2021">2021</a></td>
             <td><a href="https://ctftime.org/event/1282/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
+            <td rowspan=1><a href="ctfs/UNSDG">UNSDG</a></td>
+            <td><a href="ctfs/UNSDG/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/3184/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
             <td rowspan=3><a href="ctfs/UNbreakableInternational">UNbreakableInternational</a></td>
