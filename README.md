@@ -2111,6 +2111,11 @@
             <td><a href="https://ctftime.org/event/2902/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=1><a href="ctfs/K3RN3LCTF">K3RN3LCTF</a></td>
+            <td><a href="ctfs/K3RN3LCTF/2021">2021</a></td>
+            <td><a href="https://ctftime.org/event/1438/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=4><a href="ctfs/KalmarCTF">KalmarCTF</a></td>
             <td><a href="ctfs/KalmarCTF/2026">2026</a></td>
             <td><a href="https://ctftime.org/event/2983/tasks/" target="_blank">CTFtime</a></td>
@@ -2687,6 +2692,15 @@
             <td><a href="https://ctftime.org/event/2231/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=2><a href="ctfs/picoCTF">picoCTF</a></td>
+            <td><a href="ctfs/picoCTF/2020">2020</a></td>
+            <td><a href="https://ctftime.org/event/1150/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
+            <td><a href="ctfs/picoCTF/2019">2019</a></td>
+            <td><a href="https://ctftime.org/event/914/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=8><a href="ctfs/PlaidCTF">Plaid</a></td>
             <td><a href="ctfs/PlaidCTF/2025">2025</a></td>
             <td><a href="https://ctftime.org/event/2508/tasks/" target="_blank">CTFtime</a></td>
@@ -2795,9 +2809,13 @@
             <td><a href="https://ctftime.org/event/664/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="ctfs/PwnMeCTF">PwnMeCTF</a></td>
-            <td><a href="ctfs/PwnMeCTF/2025">2025</a></td>
+            <td rowspan=2><a href="ctfs/PwnMe">PwnMe</a></td>
+            <td><a href="ctfs/PwnMe/2025">2025</a></td>
             <td><a href="https://ctftime.org/event/2658/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
+            <td><a href="ctfs/PwnMe/2022">2022</a></td>
+            <td><a href="https://ctftime.org/event/1691/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
             <td rowspan=2><a href="ctfs/PwnSec">PwnSec</a></td>
@@ -2812,11 +2830,6 @@
             <td rowspan=1><a href="ctfs/PwnThyBytes">PwnThyBytes</a></td>
             <td><a href="ctfs/PwnThyBytes/2019">2019</a></td>
             <td><a href="https://ctftime.org/event/756/tasks/" target="_blank">CTFtime</a></td>
-        </tr>
-        <tr>
-            <td rowspan=1><a href="ctfs/Pwnme">Pwnme</a></td>
-            <td><a href="ctfs/Pwnme/2022">2022</a></td>
-            <td><a href="https://ctftime.org/event/1691/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
             <td rowspan=2><a href="ctfs/QUESTCON">QUESTCON</a></td>
@@ -4426,16 +4439,16 @@
             <td><a href="https://ctftime.org/event/1793/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=3><a href="ctfs/pbctf">perfect blue</a></td>
-            <td><a href="ctfs/pbctf/2023">2023</a></td>
+            <td rowspan=3><a href="ctfs/perfectblue">perfectblue</a></td>
+            <td><a href="ctfs/perfectblue/2023">2023</a></td>
             <td><a href="https://ctftime.org/event/1763/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td><a href="ctfs/pbctf/2021">2021</a></td>
+            <td><a href="ctfs/perfectblue/2021">2021</a></td>
             <td><a href="https://ctftime.org/event/1371/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td><a href="ctfs/pbctf/2020">2020</a></td>
+            <td><a href="ctfs/perfectblue/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1121/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
