@@ -3731,6 +3731,11 @@
             <td><a href="https://ctftime.org/event/1282/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=1><a href="ctfs/UNI6ctf">UNI6ctf</a></td>
+            <td><a href="ctfs/UNI6ctf/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/3226/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=1><a href="ctfs/UNSDG">UNSDG</a></td>
             <td><a href="ctfs/UNSDG/2026">2026</a></td>
             <td><a href="https://ctftime.org/event/3184/tasks/" target="_blank">CTFtime</a></td>
