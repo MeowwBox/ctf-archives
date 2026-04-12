@@ -2128,7 +2128,11 @@
             <td><a href="https://ctftime.org/event/1878/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="ctfs/Kashi">Kashi</a></td>
+            <td rowspan=2><a href="ctfs/Kashi">Kashi</a></td>
+            <td><a href="ctfs/Kashi/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/3150/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
             <td><a href="ctfs/Kashi/2025">2025</a></td>
             <td><a href="https://ctftime.org/event/2668/tasks/" target="_blank">CTFtime</a></td>
         </tr>
