@@ -2475,14 +2475,19 @@
             <td><a href="https://ctftime.org/event/584/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="ctfs/NNS">NNS</a></td>
-            <td><a href="ctfs/NNS/2025">2025</a></td>
-            <td><a href="https://ctftime.org/event/2684/tasks/" target="_blank">CTFtime</a></td>
-        </tr>
-        <tr>
             <td rowspan=1><a href="ctfs/NACTF">NACTF</a></td>
             <td><a href="ctfs/NACTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1157/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
+            <td rowspan=1><a href="ctfs/NCTF">NCTF</a></td>
+            <td><a href="ctfs/NCTF/2026">2026</a></td>
+            <td><a href="https://ctftime.org/event/3206/tasks/" target="_blank">CTFtime</a></td>
+        </tr>
+        <tr>
+            <td rowspan=1><a href="ctfs/NNS">NNS</a></td>
+            <td><a href="ctfs/NNS/2025">2025</a></td>
+            <td><a href="https://ctftime.org/event/2684/tasks/" target="_blank">CTFtime</a></td>
         </tr>
         <tr>
             <td rowspan=2><a href="ctfs/NewYear">NewYear</a></td>
