@@ -12047,11 +12047,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="3">
+   <td rowspan="4">
     <a href="ctfs/UMassCTF">
      UMassCTF
     </a>
    </td>
+   <td>
+    <a href="ctfs/UMassCTF/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/2937/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/UMassCTF/2024">
      2024
