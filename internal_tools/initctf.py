@@ -115,9 +115,8 @@ if __name__ == '__main__':
 
   open('README.md', 'w').write(soup.prettify())
 
-  os.system(f'mkdir -p {full_path}')
   for category in ['crypto', 'web', 'pwn', 'rev', 'misc', 'forensic', 'osint', 'net', 'steg', 'mobile', 'blockchain', 'hw', 'ppc', 'ai', 'jail', 'recon']:
-    os.system(f'mkdir {full_path}/{category}')
+    os.system(f'mkdir -p ctfs/{full_path}/{category}')
 
   open(f'ctfs/{ctf_name}/README.md', 'w').write(f'[CTFtime Page](https://ctftime.org/ctf/{ctf_id})\n')
   open(f'ctfs/{full_path}/README.md', 'w').write(f'[CTFtime Page](https://ctftime.org/event/{event_id})\n')
