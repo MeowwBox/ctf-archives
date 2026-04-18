@@ -72,7 +72,7 @@ if __name__ == '__main__':
     full_path += '/Finals'
     full_title += ' Finals'
 
-  soup = BeautifulSoup(open('../README.md').read(), 'html.parser')
+  soup = BeautifulSoup(open('README.md').read(), 'html.parser')
   found = False
   tr_elements = soup.tbody.find_all('tr')
   for tr in tr_elements:
@@ -113,13 +113,13 @@ if __name__ == '__main__':
     ''', "html.parser")
     tr_elements[-1].insert_after(new_tr.tr)
 
-  open('../README.md', 'w').write(soup.prettify())
+  open('README.md', 'w').write(soup.prettify())
 
   os.system(f'mkdir -p {full_path}')
   for category in ['crypto', 'web', 'pwn', 'rev', 'misc', 'forensic', 'osint', 'net', 'steg', 'mobile', 'blockchain', 'hw', 'ppc', 'ai', 'jail', 'recon']:
     os.system(f'mkdir {full_path}/{category}')
 
-  open(f'{ctf_name}/README.md', 'w').write(f'[CTFtime Page](https://ctftime.org/ctf/{ctf_id})\n')
-  open(f'{full_path}/README.md', 'w').write(f'[CTFtime Page](https://ctftime.org/event/{event_id})\n')
+  open(f'ctfs/{ctf_name}/README.md', 'w').write(f'[CTFtime Page](https://ctftime.org/ctf/{ctf_id})\n')
+  open(f'ctfs/{full_path}/README.md', 'w').write(f'[CTFtime Page](https://ctftime.org/event/{event_id})\n')
 
   print(full_path)
