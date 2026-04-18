@@ -31,6 +31,23 @@
    </td>
   </tr>
   <tr>
+   <td rowspan="1">
+    <a href="ctfs/WRECKCTF">
+     WRECKCTF
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/WRECKCTF/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3240/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/0CTF/2024">
      2024

@@ -74,11 +74,23 @@ if __name__ == '__main__':
 
   soup = BeautifulSoup(open('../README.md').read(), 'html.parser')
   found = False
-  for tr in soup.tbody.find_all('tr'):
+  tr_elements = soup.tbody.find_all('tr')
+  for tr in tr_elements:
     td = tr.find_all('td')[0]
     if td.has_attr('rowspan'):
       curr_ctf_name = td.a['href'].split('/')[1]
-      if ctf_name == curr_ctf_name:
+      if ctf_name < curr_ctf_name:
+        found = True
+        new_tr = BeautifulSoup(f'''
+          <tr>
+              <td rowspan=1><a href="ctfs/{ctf_name}">{ctf_name}</a></td>
+              <td><a href="ctfs/{full_path}">{full_title}</a></td>
+              <td><a href="https://ctftime.org/event/{event_id}/tasks/" target="_blank">CTFtime</a></td>
+          </tr>
+        ''', "html.parser")
+        tr.insert_before(new_tr.tr)
+        break
+      elif ctf_name == curr_ctf_name:
         found = True
         new_tr = BeautifulSoup(f'''
           <tr>
@@ -89,10 +101,19 @@ if __name__ == '__main__':
         ''', "html.parser")
         tr.insert_before(new_tr.tr)
         td.decompose()
-        open('../README.md', 'w').write(soup.prettify())
         break
 
-  assert found
+  if not found:
+    new_tr = BeautifulSoup(f'''
+      <tr>
+          <td rowspan=1><a href="ctfs/{ctf_name}">{ctf_name}</a></td>
+          <td><a href="ctfs/{full_path}">{full_title}</a></td>
+          <td><a href="https://ctftime.org/event/{event_id}/tasks/" target="_blank">CTFtime</a></td>
+      </tr>
+    ''', "html.parser")
+    tr_elements[-1].insert_after(new_tr.tr)
+
+  open('../README.md', 'w').write(soup.prettify())
 
   os.system(f'mkdir -p {full_path}')
   for category in ['crypto', 'web', 'pwn', 'rev', 'misc', 'forensic', 'osint', 'net', 'steg', 'mobile', 'blockchain', 'hw', 'ppc', 'ai']:
