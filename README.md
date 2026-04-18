@@ -2393,23 +2393,6 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="1">
-    <a href="ctfs/CRHC">
-     CRHC
-    </a>
-   </td>
-   <td>
-    <a href="ctfs/CRHC/2025">
-     2025
-    </a>
-   </td>
-   <td>
-    <a href="https://ctftime.org/event/2873/tasks/" target="_blank">
-     CTFtime
-    </a>
-   </td>
-  </tr>
-  <tr>
    <td rowspan="5">
     <a href="ctfs/COMPFEST">
      COMPFEST
@@ -2504,11 +2487,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="2">
+   <td rowspan="3">
     <a href="ctfs/CPCTF">
      CPCTF
     </a>
    </td>
+   <td>
+    <a href="ctfs/CPCTF/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3077/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/CPCTF/2025">
      2025
@@ -2528,6 +2523,23 @@
    </td>
    <td>
     <a href="https://ctftime.org/event/2338/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="1">
+    <a href="ctfs/CRHC">
+     CRHC
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/CRHC/2025">
+     2025
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/2873/tasks/" target="_blank">
      CTFtime
     </a>
    </td>

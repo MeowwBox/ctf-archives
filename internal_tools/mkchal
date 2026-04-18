@@ -59,7 +59,7 @@ def is_valid(line):
   if line.strip().lower().startswith('download the attachment'):
     return False
 
-  if line.strip().lower() in ['attachment', 'handouts', 'show tags', 'download attachments', 'link to open instance']:
+  if line.strip().lower() in ['attachment', 'handouts', 'show tags', 'download attachments', 'link to open instance', 'question composition', 'genre']:
     return False
 
   if 'Dear PersianCats' in line.strip():
@@ -261,6 +261,9 @@ if __name__ == '__main__':
   chall_content = get_clipboard().split('\n') if args.input == 'clipboard' else sys.stdin.readlines()
   chall_content = '\n'.join([re.sub(r'(\d+[ \t]+points|\d+pts)', r'\n\1', l.rstrip()) for l in chall_content]).strip()
   chall_content = re.sub(r'\(solved by \d+ team(s)?\)', '\n', chall_content, flags=re.IGNORECASE).strip()
+  chall_content = re.sub(r'difficulty\nLv\.\d', '\n', chall_content, flags=re.IGNORECASE).strip()
+  chall_content = re.sub(r'score\n\d+\.\d+', '\n', chall_content, flags=re.IGNORECASE).strip()
+  chall_content = re.sub(r'maximum number of submissions\n\d+ times', '\n', chall_content, flags=re.IGNORECASE).strip()
   lines = chall_content.split('\n')
   chal_name = get_challenge_name(replace_special_characters(lines[0]))
 
