@@ -6841,11 +6841,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="1">
+   <td rowspan="2">
     <a href="ctfs/Kind4SUS">
      Kind4SUS
     </a>
    </td>
+   <td>
+    <a href="ctfs/Kind4SUS/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3143/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/Kind4SUS/2025">
      2025
