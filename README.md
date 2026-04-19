@@ -14440,11 +14440,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="3">
+   <td rowspan="4">
     <a href="ctfs/pingCTF">
      pingCTF
     </a>
    </td>
+   <td>
+    <a href="ctfs/pingCTF/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3147/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/pingCTF/2024">
      2024
