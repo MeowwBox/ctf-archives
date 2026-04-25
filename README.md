@@ -11830,11 +11830,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="5">
+   <td rowspan="6">
     <a href="ctfs/UMDCTF">
      UMDCTF
     </a>
    </td>
+   <td>
+    <a href="ctfs/UMDCTF/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3056/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/UMDCTF/2024">
      2024
