@@ -63,7 +63,7 @@ if __name__ == '__main__':
     ctf_name = 'UNKNOWN'
   ctf_year = datetime.date.today().year
   full_path = f'{ctf_name}/{ctf_year}'
-  full_title = ctf_year
+  full_title = str(ctf_year)
   title = soup.find_all('title')[0].text.lower()
   if 'teaser' in title or 'qualifier' in title or 'quals' in title or 'preliminary' in title or 'prequal' in title or 'qualification' in title or 'qualifying' in title:
     full_path += '/Quals'

@@ -2710,11 +2710,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="1">
+   <td rowspan="2">
     <a href="ctfs/CTF@AC">
      CTF@AC
     </a>
    </td>
+   <td>
+    <a href="ctfs/CTF@AC/2026/Quals">
+     2026 Quals
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3192/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/CTF@AC/2025/Quals">
      2025 Quals
