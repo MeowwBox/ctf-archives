@@ -6958,6 +6958,23 @@
   </tr>
   <tr>
    <td rowspan="1">
+    <a href="ctfs/KubSTU">
+     KubSTU
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/KubSTU/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3177/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="1">
     <a href="ctfs/KubanCTF">
      KubanCTF
     </a>
