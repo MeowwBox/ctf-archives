@@ -72,6 +72,10 @@ if __name__ == '__main__':
     full_path += '/Finals'
     full_title += ' Finals'
 
+  if os.path.isdir(f'ctfs/{full_path}'):
+    print(full_path)
+    sys.exit(0)
+
   soup = BeautifulSoup(open('README.md').read(), 'html.parser')
   found = False
   tr_elements = soup.tbody.find_all('tr')
