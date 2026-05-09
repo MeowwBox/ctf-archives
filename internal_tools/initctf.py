@@ -13,6 +13,7 @@ import datetime
 import argparse
 
 if __name__ == '__main__':
+  raw_input('asdfasdf')
   parser = argparse.ArgumentParser()
   parser.add_argument("--url", type=str)
   parser.add_argument('--browser', action='store_true')
@@ -40,13 +41,21 @@ if __name__ == '__main__':
     m = re.fullmatch(r'/ctf/(\d+)', link.get('href'))
     if m:
       ctf_id = m.group(1)
-      ctf_name = ''
-      for t in link.text.strip().split():
-        if t.lower() in ['ctf', 'ctfs', 'online']:
-          break
-        ctf_name += t[0].upper() + t[1:]
+      # ctf_name = ''
+      # for t in link.text.strip().split():
+      #   if t.lower() in ['ctf', 'ctfs', 'online']:
+      #     break
+      #   ctf_name += t[0].upper() + t[1:]
 
       break
+
+  title = soup.find_all('title')[0].text.lower()
+  ctf_name = ''
+  for t in title.split('/')[1].split():
+    for t in link.text.strip().split():
+      if t.lower() in ['ctf', 'ctfs', 'online', 'quals', 'qualifying', 'teaser', 'qualifier', 'preliminary', 'prequal', 'qualification']:
+        break
+      ctf_name += t[0].upper() + t[1:]
 
   for meta in soup.find_all('meta'):
     if meta.get('property') != 'og:url':
@@ -56,15 +65,10 @@ if __name__ == '__main__':
 
     break
 
-
   ctf_name = re.sub(r'[^0-9a-zA-Z_@+\.+]+', '', ctf_name.replace('Preliminary', '').replace('Qualifier', '').strip().replace('å', 'a').replace('$', 'S').replace('!', 'i'))
   ctf_name = re.sub(r'\d+$', '', ctf_name).strip('.')
-  if not ctf_name:
-    correct_ctf_name = input(f'Could not detect the CTF name. Please enter the CTF name: ')
-  else:
-    correct_ctf_name = input(f'Is "{ctf_name}" the correct CTF name? If not, please enter the correct name: ')
-  if correct_ctf_name:
-    ctf_name = correct_ctf_name
+  assert ctf_name != ''
+
   ctf_year = datetime.date.today().year
   full_path = f'{ctf_name}/{ctf_year}'
   full_title = str(ctf_year)
