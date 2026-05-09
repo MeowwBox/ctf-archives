@@ -13,7 +13,6 @@ import datetime
 import argparse
 
 if __name__ == '__main__':
-  raw_input('asdfasdf')
   parser = argparse.ArgumentParser()
   parser.add_argument("--url", type=str)
   parser.add_argument('--browser', action='store_true')
@@ -41,11 +40,6 @@ if __name__ == '__main__':
     m = re.fullmatch(r'/ctf/(\d+)', link.get('href'))
     if m:
       ctf_id = m.group(1)
-      # ctf_name = ''
-      # for t in link.text.strip().split():
-      #   if t.lower() in ['ctf', 'ctfs', 'online']:
-      #     break
-      #   ctf_name += t[0].upper() + t[1:]
 
       break
 
