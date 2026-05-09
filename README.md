@@ -4874,6 +4874,23 @@
   </tr>
   <tr>
    <td rowspan="1">
+    <a href="ctfs/FromDuskTillDawn">
+     FromDuskTillDawn
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/FromDuskTillDawn/2026/Quals">
+     2026 Quals
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3111/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="1">
     <a href="ctfs/FullWeakEngineer">
      FullWeakEngineer
     </a>
