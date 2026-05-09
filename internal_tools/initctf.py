@@ -44,7 +44,7 @@ if __name__ == '__main__':
       for t in link.text.strip().split():
         if t.lower() in ['ctf', 'ctfs', 'online']:
           break
-        ctf_name += t
+        ctf_name += t[0].upper() + t[1:]
 
       break
 
