@@ -60,7 +60,11 @@ if __name__ == '__main__':
   ctf_name = re.sub(r'[^0-9a-zA-Z_@+\.+]+', '', ctf_name.replace('Preliminary', '').replace('Qualifier', '').strip().replace('å', 'a').replace('$', 'S').replace('!', 'i'))
   ctf_name = re.sub(r'\d+$', '', ctf_name).strip('.')
   if not ctf_name:
-    ctf_name = 'UNKNOWN'
+    correct_ctf_name = input(f'Could not detect the CTF name. Please enter the CTF name: ')
+  else:
+    correct_ctf_name = input(f'Is "{ctf_name}" the correct CTF name? If not, please enter the correct name: ')
+  if correct_ctf_name:
+    ctf_name = correct_ctf_name
   ctf_year = datetime.date.today().year
   full_path = f'{ctf_name}/{ctf_year}'
   full_title = str(ctf_year)
