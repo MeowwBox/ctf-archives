@@ -2146,11 +2146,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="4">
+   <td rowspan="5">
     <a href="ctfs/BreakTheSyntax">
-     Break the Syntax
+     BreakTheSyntax
     </a>
    </td>
+   <td>
+    <a href="ctfs/BreakTheSyntax/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3137/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/BreakTheSyntax/2024">
      2024
