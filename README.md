@@ -1227,6 +1227,23 @@
    </td>
   </tr>
   <tr>
+   <td rowspan="1">
+    <a href="ctfs/BKISC">
+     BKISC
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/BKISC/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/2927/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td rowspan="2">
     <a href="ctfs/BRICS+">
      BRICS+
