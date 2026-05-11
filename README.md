@@ -9149,6 +9149,23 @@
    </td>
   </tr>
   <tr>
+   <td rowspan="1">
+    <a href="ctfs/RAMunchers">
+     RAMunchers
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/RAMunchers/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3283/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td rowspan="6">
     <a href="ctfs/RCTF">
      RCTF
