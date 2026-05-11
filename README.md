@@ -7805,11 +7805,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="5">
+   <td rowspan="6">
     <a href="ctfs/MidnightSun">
-     Midnight Sun
+     MidnightSun
     </a>
    </td>
+   <td>
+    <a href="ctfs/MidnightSun/2026/Quals">
+     2026 Quals
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/2773/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/MidnightSun/2024/Quals">
      2024 Quals
