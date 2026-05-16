@@ -43,9 +43,9 @@ if __name__ == '__main__':
 
       break
 
-  title = soup.find_all('title')[0].text
+  title = soup.find_all('title')[0].text.replace('CTFtime.org / ', '')
   ctf_name = ''
-  for t in title.split('/')[1].split():
+  for t in title.split():
     if t.lower() in ['ctf', 'ctfs', 'online', 'quals', 'qualifying', 'teaser', 'qualifier', 'preliminary', 'prequal', 'qualification']:
       break
     ctf_name += t[0].upper() + t[1:]
