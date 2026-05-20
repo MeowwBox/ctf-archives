@@ -23,6 +23,16 @@ def is_valid(line):
   if line.strip().lower().startswith('connection: ncat'):
     return False
 
+  print(line.strip().lower())
+  if line.strip().lower().startswith('remote:'):
+    return False
+
+  if line.strip().lower().startswith('FINAL SUBMISSION WARNING'):
+    return False
+
+  if line.strip().lower().startswith('This challenge allows only 5 flag attempt. Submit only when you are sure.'):
+    return False
+
   if line.strip().lower().startswith('handout:'):
     return False
 
