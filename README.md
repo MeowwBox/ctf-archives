@@ -9931,6 +9931,23 @@
    </td>
   </tr>
   <tr>
+   <td rowspan="1">
+    <a href="ctfs/SecLeaf">
+     SecLeaf
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/SecLeaf/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3136/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td rowspan="2">
     <a href="ctfs/SpringForwardCTF">
      SpringForwardCTF

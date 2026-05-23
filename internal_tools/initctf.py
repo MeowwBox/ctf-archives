@@ -48,6 +48,8 @@ if __name__ == '__main__':
   for t in title.split():
     if t.lower() in ['ctf', 'ctfs', 'online', 'quals', 'qualifying', 'teaser', 'qualifier', 'preliminary', 'prequal', 'qualification']:
       break
+    if re.fullmatch(r'q\d', t.lower()):
+      break
     ctf_name += t[0].upper() + t[1:]
 
   for meta in soup.find_all('meta'):
