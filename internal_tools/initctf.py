@@ -60,7 +60,7 @@ if __name__ == '__main__':
 
     break
 
-  ctf_name = re.sub(r'[^0-9a-zA-Z_@+\.+]+', '', ctf_name.replace('Preliminary', '').replace('Qualifier', '').strip().replace('å', 'a').replace('$', 'S').replace('!', 'i').replace('/', ''))
+  ctf_name = re.sub(r'[^0-9a-zA-Z_@+\.+]+', '', ctf_name.replace('Preliminary', '').replace('Qualifier', '').strip().replace('å', 'a').replace('$', 'S').replace('/', ''))
   ctf_name = re.sub(r'\d+$', '', ctf_name).strip('.')
   assert ctf_name != ''
 
