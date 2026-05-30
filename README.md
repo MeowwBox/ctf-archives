@@ -5727,6 +5727,23 @@
   </tr>
   <tr>
    <td rowspan="1">
+    <a href="ctfs/HackAstra">
+     HackAstra
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/HackAstra/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3270/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="1">
     <a href="ctfs/HackCon">
      HackCon
     </a>
