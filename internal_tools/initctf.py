@@ -46,7 +46,7 @@ if __name__ == '__main__':
   title = soup.find_all('title')[0].text.replace('CTFtime.org / ', '').replace('अस्त्र', 'Astra')
   ctf_name = ''
   for t in title.split():
-    if t.lower() in ['ctf', 'ctfs', 'online', 'quals', 'qualifying', 'teaser', 'qualifier', 'preliminary', 'prequal', 'qualification']:
+    if t.lower() in ['ctf', 'ctfs', 'online', 'quals', 'qualifying', 'teaser', 'qualifiers', 'qualifier', 'preliminary', 'prequal', 'qualification']:
       break
     if re.fullmatch(r'q\d', t.lower()):
       break
@@ -60,7 +60,7 @@ if __name__ == '__main__':
 
     break
 
-  ctf_name = re.sub(r'[^0-9a-zA-Z_@+\.+]+', '', ctf_name.replace('Preliminary', '').replace('Qualifier', '').strip().replace('å', 'a').replace('$', 'S').replace('/', ''))
+  ctf_name = re.sub(r'[^0-9a-zA-Z_@+\.+]+', '', ctf_name.replace('Preliminary', '').replace('Qualifiers', '').replace('Qualifier', '').strip().replace('å', 'a').replace('$', 'S').replace('/', ''))
   ctf_name = re.sub(r'\d+$', '', ctf_name).strip('.')
   assert ctf_name != ''
 
