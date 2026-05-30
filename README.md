@@ -6060,6 +6060,23 @@
    </td>
   </tr>
   <tr>
+   <td rowspan="1">
+    <a href="ctfs/Hardware">
+     Hardware
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/Hardware/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3174/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td rowspan="2">
     <a href="ctfs/Harekaze">
      Harekaze
