@@ -5362,6 +5362,23 @@
   </tr>
   <tr>
    <td rowspan="1">
+    <a href="ctfs/HASBLCTF">
+     HASBLCTF
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/HASBLCTF/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3301/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="1">
     <a href="ctfs/HCMUS">
      HCMUS
     </a>
