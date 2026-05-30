@@ -5245,11 +5245,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="4">
+   <td rowspan="5">
     <a href="ctfs/GreyCatTheFlag">
      GreyCatTheFlag
     </a>
    </td>
+   <td>
+    <a href="ctfs/GreyCatTheFlag/2026/Quals">
+     2026 Quals
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3178/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/GreyCatTheFlag/2025">
      2025
