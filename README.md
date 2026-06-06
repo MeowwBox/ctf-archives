@@ -9766,11 +9766,35 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="1">
+   <td rowspan="2">
     <a href="ctfs/SAS">
      SAS
     </a>
    </td>
+   <td>
+    <a href="ctfs/SAS/2026/Quals">
+     2026 Quals
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3109/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="ctfs/SAS/2025">
+     2025
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/2636/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/SAS/2024">
      2024
