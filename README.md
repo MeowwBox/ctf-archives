@@ -2884,23 +2884,6 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="1">
-    <a href="ctfs/Ctrl+Space">
-     Ctrl+Space
-    </a>
-   </td>
-   <td>
-    <a href="ctfs/Ctrl+Space/2025/Quals">
-     2025 Quals
-    </a>
-   </td>
-   <td>
-    <a href="https://ctftime.org/event/2872/tasks/" target="_blank">
-     CTFtime
-    </a>
-   </td>
-  </tr>
-  <tr>
    <td rowspan="2">
     <a href="ctfs/CakeCTF">
      CakeCTF
@@ -3363,6 +3346,23 @@
    </td>
    <td>
     <a href="https://ctftime.org/event/1735/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="1">
+    <a href="ctfs/Ctrl+Space">
+     Ctrl+Space
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/Ctrl+Space/2025/Quals">
+     2025 Quals
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/2872/tasks/" target="_blank">
      CTFtime
     </a>
    </td>
