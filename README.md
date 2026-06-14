@@ -2176,6 +2176,23 @@
   </tr>
   <tr>
    <td rowspan="1">
+    <a href="ctfs/BoroCTF">
+     BoroCTF
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/BoroCTF/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3309/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="1">
     <a href="ctfs/BraekerCTF">
      BraekerCTF
     </a>
