@@ -8066,6 +8066,23 @@
    </td>
   </tr>
   <tr>
+   <td rowspan="1">
+    <a href="ctfs/MntcrlCTF">
+     MntcrlCTF
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/MntcrlCTF/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3282/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td rowspan="2">
     <a href="ctfs/N0PSctf">
      N0PSctf
