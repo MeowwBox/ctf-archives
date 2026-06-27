@@ -10286,11 +10286,23 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="4">
+   <td rowspan="5">
     <a href="ctfs/SekaiCTF">
      SekaiCTF
     </a>
    </td>
+   <td>
+    <a href="ctfs/SekaiCTF/2026">
+     2026
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/3113/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
    <td>
     <a href="ctfs/SekaiCTF/2025">
      2025
