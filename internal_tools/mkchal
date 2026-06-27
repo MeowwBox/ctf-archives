@@ -23,7 +23,6 @@ def is_valid(line):
   if line.strip().lower().startswith('connection: ncat'):
     return False
 
-  print(line.strip().lower())
   if line.strip().lower().startswith('remote:'):
     return False
 
