@@ -10093,52 +10093,6 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="1">
-    <a href="ctfs/SecLeaf">
-     SecLeaf
-    </a>
-   </td>
-   <td>
-    <a href="ctfs/SecLeaf/2026">
-     2026
-    </a>
-   </td>
-   <td>
-    <a href="https://ctftime.org/event/3136/tasks/" target="_blank">
-     CTFtime
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2">
-    <a href="ctfs/SpringForwardCTF">
-     SpringForwardCTF
-    </a>
-   </td>
-   <td>
-    <a href="ctfs/SpringForwardCTF/2024">
-     2024
-    </a>
-   </td>
-   <td>
-    <a href="https://ctftime.org/event/2348/tasks/" target="_blank">
-     CTFtime
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <a href="ctfs/SpringForwardCTF/2023">
-     2023
-    </a>
-   </td>
-   <td>
-    <a href="https://ctftime.org/event/1927/tasks/" target="_blank">
-     CTFtime
-    </a>
-   </td>
-  </tr>
-  <tr>
    <td rowspan="2">
     <a href="ctfs/SUSCTF">
      SUSCTF
@@ -10197,54 +10151,18 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="4">
-    <a href="ctfs/SekaiCTF">
-     SekaiCTF
+   <td rowspan="1">
+    <a href="ctfs/SecLeaf">
+     SecLeaf
     </a>
    </td>
    <td>
-    <a href="ctfs/SekaiCTF/2025">
-     2025
+    <a href="ctfs/SecLeaf/2026">
+     2026
     </a>
    </td>
    <td>
-    <a href="https://ctftime.org/event/2683/tasks/" target="_blank">
-     CTFtime
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <a href="ctfs/SekaiCTF/2024">
-     2024
-    </a>
-   </td>
-   <td>
-    <a href="https://ctftime.org/event/2243/tasks/" target="_blank">
-     CTFtime
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <a href="ctfs/SekaiCTF/2023">
-     2023
-    </a>
-   </td>
-   <td>
-    <a href="https://ctftime.org/event/1923/tasks/" target="_blank">
-     CTFtime
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <a href="ctfs/SekaiCTF/2022">
-     2022
-    </a>
-   </td>
-   <td>
-    <a href="https://ctftime.org/event/1619/tasks/" target="_blank">
+    <a href="https://ctftime.org/event/3136/tasks/" target="_blank">
      CTFtime
     </a>
    </td>
@@ -10363,6 +10281,88 @@
    </td>
    <td>
     <a href="https://ctftime.org/event/622/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="4">
+    <a href="ctfs/SekaiCTF">
+     SekaiCTF
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/SekaiCTF/2025">
+     2025
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/2683/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="ctfs/SekaiCTF/2024">
+     2024
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/2243/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="ctfs/SekaiCTF/2023">
+     2023
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/1923/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="ctfs/SekaiCTF/2022">
+     2022
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/1619/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="2">
+    <a href="ctfs/SpringForwardCTF">
+     SpringForwardCTF
+    </a>
+   </td>
+   <td>
+    <a href="ctfs/SpringForwardCTF/2024">
+     2024
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/2348/tasks/" target="_blank">
+     CTFtime
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="ctfs/SpringForwardCTF/2023">
+     2023
+    </a>
+   </td>
+   <td>
+    <a href="https://ctftime.org/event/1927/tasks/" target="_blank">
      CTFtime
     </a>
    </td>
