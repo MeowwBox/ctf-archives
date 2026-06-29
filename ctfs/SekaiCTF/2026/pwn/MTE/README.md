@@ -3,9 +3,9 @@ Binary Exploitation
 Author: Qyn
 
 0day
-APPEND
+EXPERT
 
-DetailsSolves (0)
+DetailsSolves (8)
 Description
 Miku found all these bugs, you should put them together! You might want to involve some crypto as well!
 
